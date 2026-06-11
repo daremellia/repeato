@@ -1,4 +1,4 @@
-# 📚 TIL (Today I Learned) - AI & Tech Note
+# 📚 Repeato  - AI & Tech Note
 
 ## 📌 이 프로젝트는 무엇인가요?
 매일 새롭게 배우고 깨달은 기술적인 지식과 AI 활용법을 기록하는 개인 학습 아카이브이자 오픈소스 저장소입니다. 
